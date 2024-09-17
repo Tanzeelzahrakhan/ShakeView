@@ -7,7 +7,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import app.itwingtech.fix.databinding.ActivityMainBinding
 import app.itwingtech.shakelibrary.ShakeLib
-import app.itwingtech.shakelibrary.ShakeLibraryView
+
 
 class MainActivity : AppCompatActivity() {
 
